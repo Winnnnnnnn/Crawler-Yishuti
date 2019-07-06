@@ -36,7 +36,7 @@ function getNameImg(name) {
         id: name,
         idi: 'jiqie',
         //字体参数
-        id1: 326,
+        id1: 900,
         //字体颜色
         id2: '#FFFFFE',
         id3: '',
